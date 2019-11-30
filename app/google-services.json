@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215067213588",
+    "firebase_url": "https://fir-19188.firebaseio.com",
+    "project_id": "fir-19188",
+    "storage_bucket": "fir-19188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215067213588:android:fb91a6647bbdf7ec1b0c01",
+        "android_client_info": {
+          "package_name": "com.chetu.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215067213588-ala6ekvurl29q750ogigfd18gg1b4ldb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chetu.demo",
+            "certificate_hash": "29adce53ab4a8778e40b50b486f3032bba8a327c"
+          }
+        },
+        {
+          "client_id": "215067213588-icjmmjipiqp6bpst2dcs5ma57ji6fmta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1YakZw--xsObaGFCvvRedOHyaDRA0JKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215067213588-icjmmjipiqp6bpst2dcs5ma57ji6fmta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
