@@ -1,7 +1,9 @@
 # FCM-Integration
 This is a demo application to integrate firebase messaging in android application.
 
-## Follow the steps
+![Image of Screenshoot](https://github.com/easygautam/FCM-Integration/blob/master/screenshot/notification-1.png)
+
+### Follow the steps
 1. Register application on firebase.
 2. Integrate ```MyFirebaseMessagingService``` class in your application.
 3. Send Notification
